@@ -1,6 +1,6 @@
-# ☕ Coffee Shop Sales Dashboard (Excel Project)
+# ☕ [Coffee Shop Sales Dashboard](https://github.com/pratik3232/Coffee-Shop-Sales-Analysis/blob/4209d2585048720fb74eb56d58a97d85d032bfac/Coffee%20Shop%20Analatics.png) (Excel Project)
 
-This is a complete **Coffee Shop Sales Analysis** project built entirely in **Microsoft Excel**.  
+This is a complete **[Coffee Shop Sales Analysis](https://github.com/pratik3232/Coffee-Shop-Sales-Analysis/blob/4209d2585048720fb74eb56d58a97d85d032bfac/Coffee%20Shop%20Analatics.png)** project built entirely in **Microsoft Excel**.  
 It transforms raw, messy sales data into a **clean, interactive dashboard** using Pivot Tables, Power Query, and data visualization best practices.
 
 ---
