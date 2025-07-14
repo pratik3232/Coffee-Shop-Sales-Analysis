@@ -48,6 +48,6 @@ It transforms raw, messy sales data into a **clean, interactive dashboard** usin
 ## 📬 Let’s Connect
 
 If you liked this project, feel free to connect with me on LinkedIn:  
-[My LinkedIn Profile](www.linkedin.com/in/pratik-hingwe)
+[My LinkedIn Profile]([https://www.linkedin.com/in/pratik-hingwe/])
 
 
