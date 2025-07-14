@@ -48,7 +48,7 @@ It transforms raw, messy sales data into a **clean, interactive dashboard** usin
 ## 🔗 Useful Links
 
 - 🔗 [See my LinkedIn post](https://www.linkedin.com/in/pratik-hingwe/)
-- 📸 [Click to view full dashboard screenshot](Coffee Shop Analatics.png)
+- 📸 [Click to view full dashboard screenshot](https://github.com/pratik3232/Coffee-Shop-Sales-Analysis/blob/4209d2585048720fb74eb56d58a97d85d032bfac/Coffee%20Shop%20Analatics.png)
   
 
 
