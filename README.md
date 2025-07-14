@@ -45,6 +45,13 @@ It transforms raw, messy sales data into a **clean, interactive dashboard** usin
 
 ---
 
+## 🔗 Useful Links
+
+- 🔗 [See my LinkedIn post](https://www.linkedin.com/in/pratik-hingwe/)
+- 📸 [Click to view full dashboard screenshot](dashboard.png)
+  
+
+
 ## 📬 Let’s Connect
 
 If you liked this project, feel free to connect with me on LinkedIn:  
